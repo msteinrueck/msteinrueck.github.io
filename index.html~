@@ -1,0 +1,261 @@
+<!DOCTYPE HTML>
+<!--
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Maria Steinrueck</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="keywords" content="Maria Steinrueck,Maria Steinrück,Steinrueck,Steinrück,extrasolar planets,exoplanets,hot Jupiter,mini-Neptune,general circulation model, GCM,exoplanet atmospheres" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<script src="https://kit.fontawesome.com/d4db4b38f1.js" crossorigin="anonymous"></script>
+	</head>
+	<body>
+
+		<!-- Nav -->
+			<nav id="nav">
+				<ul class="container">
+					<li><a href="#top">About Me</a></li>
+					<li><a href="#research">Research</a></li>
+					<li><a href="#cv">CV</a></li>
+					<li><a href="#contact">Contact</a></li>
+				</ul>
+			</nav>
+
+		<!-- Home -->
+			<div class="wrapper style1 first">
+				<article class="container" id="top">
+					<div class="row">
+						<div class="4u 12u(mobile)">
+							<span class="image fit"><img src="images/me4.JPG" alt="Portrait of Maria Steinrueck" /></span>
+						</div>
+						<div class="8u 12u(mobile)">
+							<header>
+								<h1>Maria Steinrueck</h1>
+							</header>
+							<p>I am a fifth-year graduate student at the Lunar and Planetary Laboratory at the University of Arizona.</p>
+							<!--<a href="#work" class="button big scrolly">Learn about what I do</a>-->
+						</div>
+					</div>
+				</article>
+			</div>
+
+		<!-- Research -->
+			<div class="wrapper style2">
+				<article id="research">
+					<header>
+						<h2>Research</h2>
+						<p style="text-align:left">My research focuses on studying the atmospheres of exoplanets with three-dimensional numerical simulations (so-called General Circulation Models or GCMs). I concentrate on close-in gas giants, such as hot Jupiters, warm Neptunes and mini Neptunes. These planets are tidally locked, meaning that one side of the planet permanently faces the star. This creates strong day-night temperature contrasts which drive a fascinating atmospheric circulation dominated by an eastward equatorial jet. I am interested in examining how this circulation shapes chemical processes, such as disequilibrium chemistry, cloud or haze formation, as well as in how these processes in turn influence the atmospheric circulation and radiative transfer.
+						  <!--My research interests include exoplanet atmospheres, atmospheric dynamics and numerical modeling.-->
+						      </p>
+					</header>
+					<div class="container">
+						<div class="row"  style="vertical-align: middle">
+							<div class="4u 12u(mobile)">
+								<section>
+                                    <img class="image featured" src="images/abundances_terminator_smallparticles_website2.png" alt="Figure showing the haze mass mixing ratio at the terminator" />
+									<p>Cross section of the terminator showing the haze mass mixing ratio for a particle size of 3 nm from one of my GCM simulations. The North Pole is towards the top, the morning terminator on the right side. The sketch on top is for orientation.</p>
+
+
+								</section>
+							</div>
+							<div class="8u 12u(mobile)">
+								<section>
+									<h3>3D Simulations of Photochemical Hazes</h3>
+                                    <p style="text-align:left">The transmission spectra of many hot Jupiters exhibit strong scattering slopes at short wavelengths, muted wings of alkali lines and low amplitudes of the water feature. All these characteristics can be explained by small particles present at high altitudes. One promising mechanism for forming such particles is the production of hazes through photochemical processes. Previous models studying the formation of photochemical hazes are one-dimensional and typically consider average day-side conditions. These conditions represent where the hazes are formed but not at the terminator where they are observed. It is therefore important to understand how photochemical hazes are transported three-dimensionally within the atmosphere of hot Jupiters. I developed a model for photochemical hazes within a GCM to study how winds and gravitational settling shape the 3D distribution of hazes. My simulations demonstrate that the haze mass mixing ratio varies horizontally by up to an order of magnitude. For small particle radii (<30 nm), more hazes are present at the morning terminator compared to the evening terminator. For large particle radii (>30 nm), the opposite is true. We then examined whether these terminator differences could be observed trough ingress and egress spectroscopy. In the small-particle regime, which is more consistent with observations and haze microphysics models, the terminator differences in the haze mass mixing ratio and temperature each considered by themselves cause the spectra of the morning and evening terminator to differ. When combining both effects, however, these differences largely cancel each other, resulting in very small differences in the spectra. 
+</p>
+<p><a href="https://academic.oup.com/mnras/article/504/2/2783/6232173?guestAccessKey=c9f818ef-59e8-4eef-bda0-fae00f38ce9b" target=_blank>Read full journal article</a></p>
+								</section>
+							</div>
+						</div>
+
+					<div class="container">
+						<div class="row"  style="vertical-align: middle">
+							<div class="4u 12u(mobile)">
+								<section>
+                                    <img class="image featured" src="images/HD189733b.jpg" alt="Artist's concept of HD189733b. The picture shows a star rising above a gas giant planet with a cloudy atmosphere." />
+									<p>Image: NASA/ESA/STScI (G. Bacon)</p>
+                                    <img class="image featured" src="images/tempdiff_30mbar.png" alt="Map of the temperature difference at the 30 mbar level. There is a negative temperature difference at the center of the panel (representing the day side) and a positive temperature difference towards the left and right sides of the panel (representing the night side)." />
+                                    <p>Temperature difference compared to equilibrium chemistry at the 30 mbar level in a simulation with a CH4/CO abundance ratio of 0.01. For more information, see Fig. 4 in <a href="SteinrueckEtAl2019_ApJ_880_14.pdf" target=_blank>Steinrueck et al. (2019)</a>.</p>
+								</section>
+							</div>
+							<div class="8u 12u(mobile)">
+								<section>
+									<h3>Disequilibrium Chemistry on Hot Jupiters</h3>
+                                    <p style="text-align:left">The strong winds on hot Jupiters impact the abundances of methane and carbon monoxide, two important absorbers of infrared radiation. Neglecting the atmospheric circulation, one would expect to find carbon monoxide on the day side and methane on the night side. This assumption (called equilibrium chemistry) has been used in many models, including most 3D simulations of hot Jupiter atmospheres with realistic radiative transfer. Taking into account the strong winds, however, the methane and carbon monoxide abundances are homogenized between day and night side, as the winds transport gases faster than chemical reactions can take place. It has been hypothesized that including this effect in 3D simulations could explain the discrepancy between observed and simulated light curves of hot Jupiters. I included this effect of disequilibrium chemistry in a 3D simulation of a hot Jupiter. I found that including disequilibrium chemistry leads to significant temperature changes (larger than 50-100 K) in simulations of hot Jupiter HD 189733b. If CO is the dominant carbon species in chemical disequilibrium, the day side cools and the night side heats up. In the less likely CH4 dominated regime, the atmosphere becomes hotter than in the equilibrium chemistry case everywhere on the planet for pressures larger than 30 mbar.
+                                    Looking at observations predicted from our model, I showed that disequilibrium chemistry cannot explain the observed discrepancies. In fact, while there is little effect on the light curve in the Spitzer 4.5 micron band, the day-night contrast in the 3.6 micron band becomes much smaller when including disequilibrium chemistry—the opposite of what is needed to match observations! I conclude that other effects not included in our model, most likely night side clouds, must be responsible for these discrepancies.
+</p>
+<p><a href="SteinrueckEtAl2019_ApJ_880_14.pdf" target=_blank>Read full journal article</a></p>
+								</section>
+							</div>
+						</div>
+						<!--<div class="row">
+							<div class="4u 12u(mobile)">
+								<section>	
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<p>Ornare nulla proin odio consequat.</p>
+								</section>
+							</div>
+							<div class="8u 12u(mobile)">
+								<section>
+									<h3>Encounters of protostellar disks</h3>
+									<p>
+									</p>
+								</section>
+							</div>-->
+
+					</div>
+					<!--<footer>
+						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
+					</footer>-->
+				</article>
+			</div>
+
+            
+            
+			
+		<!-- CV -->		
+		
+		<div class="wrapper style3" text-align="center">
+				<article id="cv">
+					<header>
+						<h2>CV</h2>
+						<p>You can find a PDF of my CV <a href="CV.pdf">here</a>.</p>
+					</header>
+
+				</article>
+			</div>
+
+		
+		<!-- Portfolio -->
+		<!--	<div class="wrapper style3">
+				<article id="portfolio">
+					<header>
+						<h2>Here’s some stuff I made recently.</h2>
+						<p>Proin odio consequat  sapien vestibulum consequat lorem dolore feugiat lorem ipsum dolore.</p>
+					</header>
+					<div class="container">
+						<div class="row">
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+									<h3><a href="#">Magna feugiat</a></h3>
+									<p>Ornare nulla proin odio consequat.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+									<h3><a href="#">Veroeros primis</a></h3>
+									<p>Ornare nulla proin odio consequat.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<h3><a href="#">Lorem ipsum</a></h3>
+									<p>Ornare nulla proin odio consequat.</p>
+								</article>
+							</div>
+						</div>
+						<div class="row">
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<h3><a href="#">Tempus dolore</a></h3>
+									<p>Ornare nulla proin odio consequat.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<h3><a href="#">Feugiat aliquam</a></h3>
+									<p>Ornare nulla proin odio consequat.</p>
+								</article>
+							</div>
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+									<h3><a href="#">Sed amet ornare</a></h3>
+									<p>Ornare nulla proin odio consequat.</p>
+								</article>
+							</div>
+						</div>
+					</div>
+					<footer>
+						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
+						<a href="#contact" class="button big scrolly">Get in touch with me</a>
+					</footer>
+				</article>
+			</div> -->
+
+		<!-- Contact -->
+			<div class="wrapper style4">
+				<article id="contact" class="container 75%">
+					<header>
+						<h2>Contact</h2>
+					</header>
+					<section>
+					<p>msteinru (at) lpl (dot) arizona (dot) edu</p>
+					<p>
+					Lunar and Planetary Laboratory
+					<br>
+					Kuiper Space Sciences Bldg, Office #334
+					<br>1629 E. University Blvd.
+					<br>Tucson, AZ 85721 
+					</p>
+					</section>
+					
+					
+																	<h3>Find me on ...</h3>
+								<ul class="social">
+									<li><a href="https://twitter.com/MariaSteinrueck" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="https://orcid.org/0000-0001-8342-1895" class="icon fa-orcid"><span class="label">ORCID</span></a></li>
+<!--<li><a href="https://orcid.org/0000-0001-8342-1895" class="fab fa-orcid"><span class="label"><i class="fab fa-orcid"></i></span></a></li>-->
+									<!--<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+									<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+									<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+
+									<li><a href="#" class="icon fa-rss"><span>RSS</span></a></li>
+									<li><a href="#" class="icon fa-instagram"><span>Instagram</span></a></li>
+									<li><a href="#" class="icon fa-foursquare"><span>Foursquare</span></a></li>
+									<li><a href="#" class="icon fa-skype"><span>Skype</span></a></li>
+									<li><a href="#" class="icon fa-soundcloud"><span>Soundcloud</span></a></li>
+									<li><a href="#" class="icon fa-youtube"><span>YouTube</span></a></li>
+									<li><a href="#" class="icon fa-blogger"><span>Blogger</span></a></li>
+									<li><a href="#" class="icon fa-flickr"><span>Flickr</span></a></li>
+									<li><a href="#" class="icon fa-vimeo"><span>Vimeo</span></a></li>-->
+									
+								</ul>
+								<hr />
+							</div>
+						</div>
+					</div>
+					<footer>
+						<ul id="copyright">
+							<li>&copy; Maria Steinrueck.</li><li>Photo: Christoph Hofer</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+				</article>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
